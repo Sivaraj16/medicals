@@ -1,1 +1,1 @@
-# Inventory management system For Pharmacy
+# Inventory management system For Pharmacy.
